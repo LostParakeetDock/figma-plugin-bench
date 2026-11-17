@@ -1,0 +1,9 @@
+{
+  "product": "Figma Plugin Bench",
+  "version": "2.0.7",
+  "channel": "stable",
+  "updated": "2026-11-17",
+  "mirror_region": "us-east",
+  "auto_update": true,
+  "telemetry": false
+}
